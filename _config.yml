@@ -1,0 +1,12 @@
+title: "Abrianna S"
+description: "Personal Resume Website of Abrianna S"
+theme: jekyll-theme-cayman
+
+# Navigation Links
+nav:
+  - title: "Home"
+    url: index.md
+  - title: "Resume"
+    url: resume.md
+  - title: "About"
+    url: about.md
